@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e2c5ec5100e434eb16c2be6061c67f, type: 3}
+  m_Name: HamBurger
+  m_EditorClassIdentifier: 
+  kitchenObjSOList:
+  - {fileID: 11400000, guid: e9b81dca25d132e4fb1a60229f2e0ce9, type: 2}
+  - {fileID: 11400000, guid: 2ff615cbcbe2a41408e2d6d7ef74acd9, type: 2}
+  - {fileID: 11400000, guid: 783990b9a895ae042ae3c42efaaa0804, type: 2}
+  - {fileID: 11400000, guid: d7bcd33cb6a996d4a907a433ab126708, type: 2}
+  - {fileID: 11400000, guid: cde54a3d0712e23459f9bcd480cc2988, type: 2}
+  recipeName: HamBurger
